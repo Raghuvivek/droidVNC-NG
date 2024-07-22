@@ -69,11 +69,11 @@ class Defaults {
         private set
 
     @EncodeDefault
-    var password = ""
+    var password = 12345
         private set
 
     @EncodeDefault
-    var accessKey = ""
+    var accessKey = 12345
         private set
 
     @EncodeDefault
